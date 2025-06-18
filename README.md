@@ -1,12 +1,24 @@
 Gen AI with Element 
+
+
+
 Course Description: 
+
+
 This 4-day course equips participants to design and deploy enterprise-ready GenAI applications using Large Language Models (LLMs) like GPT, Claude, and Gemini. Participants will work hands-on with tools such as LangChain, OpenAI, and Milvus to develop scalable GenAI prototypes.
 Course Learning Objectives: 
+
+
+
 •	Understand the GenAI landscape and LLM architecture
 •	Design and evaluate prompt engineering strategies
 •	Develop applications using LangChain and RAG patterns
 •	Build and deploy agent-based GenAI assistants
 •	Execute a hands-on hackathon using enterprise use cases
+
+
+
+
 PREREQUISITES
 Participants should have:
 •	Basic knowledge of Python programming
@@ -14,6 +26,9 @@ Participants should have:
 •	General understanding of Machine Learning and NLP concepts
 •	Awareness of cloud platforms (Azure or GCP preferred)
 •	Prior exposure to Jupyter Notebooks or VS Code
+
+
+
 Optional but useful:
 •	Knowledge of RESTful APIs, Docker, and Git
 •	Some experience with LLMs or prompt engineering
@@ -24,16 +39,28 @@ Optional but useful:
 •	Access to:
 o	Azure OpenAI API key (or)
 o	Google GenAI credentials (Vertex AI Studio, PaLM/Gemini API)
+
+
+
 Environment Access (Walmart Internal):
 •	Access to Walmart LLM Gateway
 •	Access to Managed Milvus (Vector DB-as-a-Service)
 •	Access to Walmart’s Agentic AI Platform
 •	Sandbox environment for MCP server deployment
+
+
+
+
 📁 Data Requirements:
 •	Sample Excel files, Word documents, and FAQs
 •	Pre-generated embedding files (optional for speed)
 •	Internal evaluation tools and API credentials
-📌 LEARNING OUTCOMES
+
+ 
+ 
+ 
+ 
+ LEARNING OUTCOMES
 By the end of the training, participants will be able to:
 •	Explain key concepts in Generative AI and Transformer-based LLMs
 •	Build and interact with OpenAI/Gemini models using Python
